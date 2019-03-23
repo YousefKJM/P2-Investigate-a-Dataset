@@ -1,8 +1,8 @@
 # P2-Investigate-a-Dataset
-Investigate a Dataset: TMDb (Movie Data) - Udacity Data Analysis Nanodegree Project
+Investigate a Dataset: No-show Appointments - Udacity Data Analysis Nanodegree Project
 
 ## Project Overview
-In this project, you will analyze a dataset and then communicate your findings about it. You will use the Python libraries NumPy, pandas, and Matplotlib to make your analysis easier.
+In this project, you will analyze a Dataset and then communicate your findings about it. You will use the Python libraries NumPy, pandas, and Matplotlib to make your analysis easier.
 
 ## What do I need to install?
 You will need an installation of Python, plus the following libraries:
