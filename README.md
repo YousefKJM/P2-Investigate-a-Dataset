@@ -1,6 +1,8 @@
 # P2-Investigate-a-Dataset
 Investigate a Dataset: No-show Appointments - Udacity Data Analysis Nanodegree Project
 
+![alt text](../investigate.png "Picture")
+
 ## Project Overview
 In this project, you will analyze a Dataset and then communicate your findings about it. You will use the Python libraries NumPy, pandas, and Matplotlib to make your analysis easier.
 
